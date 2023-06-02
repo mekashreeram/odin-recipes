@@ -1,0 +1,23 @@
+body {
+  background-color: #E5F9DB;
+  text-align: center;
+  font-family: "Verdana";
+}
+
+h1, h3 {
+  color: #83764F;
+}
+
+img {
+  width: 600px;
+}
+
+li, h3, p {
+  text-align: left;
+}
+
+p, li {
+  color: #4C4C6D;
+  font-size: large;
+  line-height: 1.5;
+}
